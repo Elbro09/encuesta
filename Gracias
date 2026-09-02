@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Gracias</title>
+<head>
+<style>
+      .espacio {
+               height: 200px;
+               }
+      
+
+      h1 { 
+          font-size: 4rem;
+          color: #ac0505;
+          text-align: center;
+          padding: 30px;
+          font-family: "Snell Roundhand";
+          }
+</style>
+</head>
+<body>
+      <div class="espacio">
+      </div>
+      <div>
+           <h1>Dios te pague!!</h1>
+         
+      </div>
+</body>
+</html>
+      
